@@ -1,4 +1,4 @@
-[![MasterHead](https://www.latentview.com/wp-content/uploads/2021/07/Featured-Image882px-by-568px-1-1.jpg)]
+[![MasterHead]([https://www.latentview.com/wp-content/uploads/2021/07/Featured-Image882px-by-568px-1-1.jpg](https://static.vecteezy.com/system/resources/previews/017/094/580/non_2x/machine-learning-icon-illustration-machine-learning-solving-robot-big-data-artificial-intelligence-internet-of-things-infographic-template-concept-banner-icon-set-icons-vector.jpg))]
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate about data science and machine learning from India</h3>
 
