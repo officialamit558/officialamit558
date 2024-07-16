@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.latentview.com/wp-content/uploads/2021/07/Featured-Image882px-by-568px-1-1.jpg)]
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate about data science and machine learning from India</h3>
 
